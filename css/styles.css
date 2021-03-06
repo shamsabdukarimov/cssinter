@@ -1,0 +1,174 @@
+body{
+margin: 0;
+text-align: center;
+}
+h1{
+  color: #3282b8;
+  margin-top: 0;
+  padding: 30px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625em;
+}
+.top-box{
+  background-color: #e4f9f5;
+}
+h2{
+  color: #3282b8;
+  font-family: 'Merriweather', serif;
+  font-size: 40px;
+  font-weight:  lighter;
+}
+span{
+  color: #e7305b;
+}
+.first-p{
+  width: 30%;
+  margin: auto;
+  font-size: 20px;
+  line-height: 2;
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  color: #777;
+  font-weight: lighter;
+}
+.hi{
+  color: #1687a7;
+}
+.prog{
+  height: 20%;
+  width: 20%;
+  padding-bottom:  10px;
+
+}
+h3{
+  color: #1687a7;
+  font-size: 60px;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  border:dotted;
+  color: #66bfbf;
+  border-bottom: none;
+  border-width: 6px;
+  width: 4%;
+  margin:100px auto;
+}
+hr:hover{
+color:#28527a;
+}
+.box-3{
+  margin-top: 150px;
+  width: 40%;
+  margin: auto;
+
+}
+h4{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #28527a;
+}
+.boxing{
+height: 20%;
+width: 20%;
+float: left ;
+margin-right: 20px;
+
+}
+.second-p{
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  color: #777;
+  font-weight: lighter;
+  line-height: 2;
+  text-align: justify;
+
+}
+.sport{
+margin-left: -200px;
+}
+
+.third-p{
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  color: #777;
+  font-weight: lighter;
+  line-height: 2;
+  text-align: justify;
+
+
+}
+
+.comp-2 {
+  width: 40%;
+  margin: 90px auto;
+}
+.student{
+
+    height: 20%;
+    width: 20%;
+    float: right ;
+    margin-left:  30px;
+    margin-top: 90px;
+
+}
+.shams{
+  margin-left: -170px;
+}
+hr:hover{
+color:#28527a;
+
+}
+.last-p{
+  font-size: 20px;
+}
+.my-p{
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  color: #777;
+  font-weight: lighter;
+  line-height: 2;
+  text-align:center;
+  width: 40%;
+margin: 50px auto;
+}
+.btn{
+  background-color: #6ddccf;
+  color: white;
+  padding: 17px 35px;
+  border-radius: 40px;
+  text-decoration: none;
+text-transform: uppercase;
+
+
+}
+.btn:hover{
+  background-color: #1687a7;
+  color: white;
+}
+
+
+
+.footer{
+  background-color: #6ddccf;
+padding: 50px;
+margin-top: 100px;
+}
+.footer-link{
+  padding: 20px;
+  text-decoration: none;
+  color: #1687a7;
+font-family: 'Montserrat', sans-serif;
+
+
+}
+.footer-link:hover{
+color:white;
+
+
+}
+.footer-p{
+  font-family: 'Merriweather', serif;
+  font-size: 12px;
+  padding-top: 15px;
+  color: white;
+}
